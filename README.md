@@ -2,6 +2,8 @@
 
 CraiyonAutomator is a tool that automates the Craiyon image generation process. This project allows users to automatically process multiple prompts and save the URLs of the generated images.
 
+![CraiyonAutomator](https://github.com/user-attachments/assets/0505eba7-a1c9-44e1-a676-962eec1568c9)
+
 ## Features
 
 - Graphical interface
