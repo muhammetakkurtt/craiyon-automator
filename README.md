@@ -14,6 +14,13 @@ CraiyonAutomator is a tool that automates the Craiyon image generation process. 
 ## System Requirements
 
 This project has been tested only on Windows and Ubuntu operating systems.
+For Ubuntu, you may need to install additional packages:
+```bash
+sudo apt install python3-tk
+sudo apt install x11-xkb-utils
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+```
 
 ## Tools and Plugins Used
 
@@ -38,6 +45,14 @@ The following open-source tools and plugins are used in this project:
    ```
    pip install -r requirements.txt
    ```
+4. (For Ubuntu) Install additional packages if not already installed:
+   ```bash
+   sudo apt install python3-tk
+   sudo apt install x11-xkb-utils
+   wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   sudo apt install ./google-chrome-stable_current_amd64.deb
+   ```
+
 
 ## Usage
 
@@ -63,4 +78,4 @@ This project is licensed under the MIT license. For more information, see the `L
 
 ## Contact
 
-For questions or feedback, please open an issue or contact me via [e-mail](muhammetakkurtt@icloud.com).
+For questions or feedback, please open an issue or contact me via [e-mail](mailto:muhammetakkurtt@icloud.com).
